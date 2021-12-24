@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hello, Enzyme! renders snapshots, too 1`] = `
+<Box>
+  <Flex
+    direction="column"
+    m="2rem auto"
+    maxW={
+      Object {
+        "xl": "1200px",
+      }
+    }
+  >
+    <Container
+      maxW="container.xl"
+    >
+      <h1>
+        Hello
+      </h1>
+    </Container>
+  </Flex>
+</Box>
+`;
